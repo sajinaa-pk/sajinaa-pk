@@ -13,7 +13,7 @@ Python · Django · DRF · Claude API · pgvector · PostgreSQL · Redis · Cele
 ## 📈 Currently
 - 4-week intensive AI/ML study plan
 - Targeting: AI Backend Engineer · Generative AI Engineer roles
-- Location: Bengaluru, India
+- Location: Bengaluru, India / Remote
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sajina--pk-blue)](https://linkedin.com/in/sajina-pk)
